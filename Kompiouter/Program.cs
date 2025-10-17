@@ -1,5 +1,4 @@
-﻿// Implementing a calculator in 
-// C# using switch statement.
+
 using System;
 using System.Text;
 using System.Threading.Tasks;
